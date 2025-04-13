@@ -1,0 +1,85 @@
+body{
+  background-image: url("https://e0.pxfuel.com/wallpapers/381/363/desktop-wallpaper-iphone-mercedes-benz-amg-logo-mercedes-benz-logo-mercedes-emblem.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 2px solid red;
+
+}
+div>h1{
+  height: 100px;
+  width: 100%;
+  background-color:bisque;
+  color: skyblue;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-decoration:underline solid black;
+  text-transform: uppercase;
+}
+img{
+  border-radius: 5000px;
+}
+#div1{
+  height: 400px;
+  width: 100%;
+  /* background-color: brown; */
+  background-image: url("https://wallpapers.com/images/featured/mercedes-benz-car-ny0t9dy51koviur4.jpg"),url("https://c4.wallpaperflare.com/wallpaper/281/548/978/mercedes-benz-amg-gt-car-wallpaper-preview.jpg"),url("https://img3.wallspic.com/previews/1/2/3/4/34321/34321-wheel-driving-mercedes_benz_sls_amg-mercedes_benz-mercedes_benz_g_class-x350.jpg");
+  background-repeat: no-repeat,no-repeat,no-repeat;
+  background-size: 25% 300px,25% 300px,25% 300px;
+  background-position: 70px 50px,580px 50px, 1100px 50px; 
+}
+#div2{
+  height: 100px;
+  width: 100%;
+  background-color: white;
+  color: darkgreen;
+}
+#container1{
+  height: 300px;
+  width: 100%;
+  background-color: rgb(250, 250, 0);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#first{
+  height: 200px;
+  width: 200px;
+  background-color: black;
+  background-image: url("https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  /* height: 200px;
+  width: 200px; */
+  background-repeat: no-repeat;
+  background-size:100% 200px;
+  
+}
+#second{
+  height: 200px;
+  width: 200px;
+  background-color: black;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe9GKFbb-5sat9-rx64WTYcKcqKfXzQghmZNkp7Zw8LOGpOuz_gd5Fp1PyOQarmcv9PT8&usqp=CAU");
+  /* height: 200px;
+  width: 200px; */
+  background-repeat: no-repeat;
+  background-size:100% 200px;
+}
+#third{
+  height: 200px;
+  width: 200px;
+  background-color: black;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsxB2relunq3bfS55JniheAebAZJJ61LK8A&s");
+  /* height: 200px;
+  width: 200px; */
+  background-repeat: no-repeat;
+  background-size:100% 200px;
+}
+#fourth{
+  height: 200px;
+  width: 200px;
+  background-color: black;
+  background-image: url("https://wallpapers.com/images/hd/4k-mercedes-white-glc-coupe-yx3qxfjpwftljrl4.jpg");
+  /* height: 200px;
+  width: 200px; */
+  background-repeat: no-repeat;
+  background-size:100% 200px;
+}
